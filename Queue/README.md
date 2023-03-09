@@ -6,7 +6,7 @@ Queue is a linear structure which follows a particular order in which the operat
 
 Source: [GeeksforGeeks](https://www.geeksforgeeks.org/queue-data-structure/)
 
-## Table of Contents
+## Code Examples
 
 - **[MYQUEUE.h](MYQUEUE.h)**
 - **[balancedpar.cpp](balancedpar.cpp)**

@@ -6,6 +6,6 @@ Graph is a non-linear data structure consisting of nodes and edges. The nodes ar
 
 Source: [GeeksforGeeks](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 
-## Table of Contents
+## Code Examples
 
 - **[graph.cpp](graph.cpp)**

@@ -10,6 +10,6 @@ The left and right subtree each must also be a binary search tree.
 
 Source: [GeeksforGeeks](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
 
-## Table of Contents
+## Code Examples
 
 - **[bst.cpp](bst.cpp)**

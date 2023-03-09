@@ -6,7 +6,7 @@ An array is a collection of items stored at contiguous memory locations. The ide
 
 Source: [GeeksforGeeks](https://www.geeksforgeeks.org/array-data-structure/)
 
-## Table of Contents
+## Code Examples
 
 - **[2DArray.cpp](2DArray.cpp)**
 - **[BubbleSort.cpp](BubbleSort.cpp)**

@@ -6,7 +6,7 @@ Binary Tree is a special data structure used for data storage purposes. A binary
 
 Source: [GeeksforGeeks](https://www.geeksforgeeks.org/binary-tree-data-structure/)
 
-## Table of Contents
+## Code Examples
 
 - **[binaryTree.cpp](binaryTree.cpp)**
 - **[preorderInordertoBinary.cpp](preorderInordertoBinary.cpp)**

@@ -8,7 +8,7 @@ A hash table uses an array to store data. The array is called the hash table. Th
 
 Source: [GeeksforGeeks](https://www.geeksforgeeks.org/hashing-data-structure/)
 
-## Table of Contents
+## Code Examples
 
 - **[VerticalOrder.cpp](VerticalOrder.cpp)**
 - **[freq.cpp](freq.cpp)**

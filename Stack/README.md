@@ -9,7 +9,7 @@ Stack is a linear data structure which follows a particular order in which the o
 
 Source: [GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
 
-## Table of Contents
+## Code Examples
 
 - **[MYSTACK.h](MYSTACK.h)**
 - **[infixToPrefix.cpp](infixToPrefix.cpp)**

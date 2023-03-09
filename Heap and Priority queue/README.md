@@ -6,7 +6,7 @@ Priority queue is an abstract data type which is like a regular queue or stack d
 
 Source: [OpenDSA](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Heaps.html)
 
-## Table of Contents
+## Code Examples
 
 - **[heap.cpp](heap.cpp)**
 - **[mergeKSorted.cpp](mergeKSorted.cpp)**

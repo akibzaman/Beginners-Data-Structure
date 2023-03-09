@@ -12,7 +12,7 @@ There are two types of linked list:
 
 Source: [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
-## Table of Contents
+## Code Examples
 
 - **[circularLinkedList.cpp](circularLinkedList.cpp)**
 - **[doublyLinkedList.cpp](doublyLinkedList.cpp)**
