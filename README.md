@@ -4,17 +4,17 @@ This repository contains the basic data structure and algorithms in C++. The cod
 
 ## **Table of Contents**
 
-- **[Array](./array)**
+- **[Array](./Array)**
 - **[Linked List](./Linked%20List)**
 - **[Stack](./Stack)**
-- **[Queue](./queue)**
+- **[Queue](./Queue)**
 - **[Binary Tree](./Binary%20Tree)**
 - **[Binary Search Tree](./bst)**
 - **[Heap and Priority Queue](./Heap%20and%20Priority%20queue)**
-- **[Graph](./graph)**
-- **[Hashing](./hashing)**
+- **[Graph](./Graph)**
+- **[Hashing](./Hashing)**
 
-## 1. **[Array](./array)**
+## 1. **[Array](./Array)**
 
 Array is a collection of similar type of data items stored at contiguous memory locations. The idea is to store multiple items of the same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array).
 
@@ -43,7 +43,7 @@ A stack is a linear data structure which follows a particular order in which the
 - **[reverseSentence.cpp](./Stack/reverseSentence.cpp)**
 - **[reverseStack.cpp](./Stack/reverseStack.cpp)**
 
-## 4. **[Queue](./queue)**
+## 4. **[Queue](./Queue)**
 
 A Queue is a linear structure which follows a particular order in which the operations are performed. The order is First In First Out (FIFO). A good example of a queue is any queue of consumers for a resource where the consumer that came first is served first. The difference between stacks and queues is in removing. In a stack we remove the item the most recently added; in a queue, we remove the item the least recently added.
 
@@ -73,13 +73,13 @@ A heap is a specialized tree-based data structure that satisfies the heap proper
 - **[mergeKSorted.cpp](./Heap%20and%20Priority%20queue/mergeKSorted.cpp)**
 - **[vectorPQSTL.cpp](./Heap%20and%20Priority%20queue/vectorPQSTL.cpp)**
 
-## 8. **[Graph](./graph)**
+## 8. **[Graph](./Graph)**
 
 A graph is a non-linear data structure consisting of nodes and edges. The nodes are sometimes also referred to as vertices and the edges are lines or arcs that connect any two nodes in the graph. More formally a Graph can be defined as, A Graph consists of a finite set of vertices(or nodes) and set of Edges which connect a pair of nodes.
 
 - **[graph.cpp](./Graph/graph.cpp)**
 
-## 9. **[Hashing](./hashing)**
+## 9. **[Hashing](./Hashing)**
 
 Hashing is a technique to convert a range of key values into a range of indexes of an array. The idea is to use a hash function that converts a given key to a smaller number and uses the small number as an index in a table called hash table.
 
