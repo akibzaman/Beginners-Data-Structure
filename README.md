@@ -59,7 +59,7 @@ A binary tree is a tree data structure in which each node has at most two childr
 - **[binaryTree.cpp](./Binary%20Tree/binaryTree.cpp)**
 - **[preorderInordertoBinary.cpp](./Binary%20Tree/preorderInordertoBinary.cpp)**
 
-## 6. **[Binary Search Tree](./bst)**
+## 6. **[Binary Search Tree](./BST)**
 
 Binary Search Tree is a node-based binary tree data structure which has the following properties: The left subtree of a node contains only nodes with keys lesser than the node’s key. The right subtree of a node contains only nodes with keys greater than the node’s key. The left and right subtree each must also be a binary search tree. There must be no duplicate nodes.
 
